@@ -16,3 +16,7 @@ The Primary source of Data I used for the analysis is Amazon Case Study file and
 
 ###Tools Used
 
+- Ms Excel For Data Cleaning
+- Ms Excel Pivot Table For Analysis
+- Ms Excel Dashboard for visualisation
+
