@@ -53,8 +53,21 @@ I started by cleaning my data where necessary.I used the delimeter to split the 
 
 
 
+![Screenshot (12)](https://github.com/user-attachments/assets/818ba992-9a77-457e-8942-507919bb7798)
 
 
+
+
+![Screenshot (13)](https://github.com/user-attachments/assets/63d20c82-7ab6-47f9-a3ac-e4407a374abd)
+
+
+
+![Screenshot (14)](https://github.com/user-attachments/assets/e6d70bd9-560f-47b0-bef4-8d032dc5e6f1)
+
+
+
+
+![Screenshot (15)](https://github.com/user-attachments/assets/52df47d5-0fb1-4483-a007-863e85827a86)
 
 
 
