@@ -42,6 +42,13 @@ Use pivot tables and calculated columns where necessary to answer the following:
 
 
 
+##VISUAL INSIGHTS AND RESULTS
+
+This Ms Excel sheet shows the data used and the calculated columns included to achieve a well structured data for the analysis
+
+
+
+
 
 
 
