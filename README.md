@@ -47,7 +47,6 @@ Use pivot tables and calculated columns where necessary to answer the following:
 This Ms Excel sheet shows the data used and the calculated columns included to achieve a well structured data for the analysis
 
 ![Screenshot (11)](https://github.com/user-attachments/assets/d7953c5f-750e-4997-a003-71fca6d408a1)
-![Screenshot (6)](https://github.com/user-attachments/assets/b60049f2-3ad1-4b21-91e8-7d53ad9ce4da)
 
 I started by cleaning my data where necessary.I used the delimeter to split the category column into 5 columns.
 
@@ -55,16 +54,10 @@ I started by cleaning my data where necessary.I used the delimeter to split the 
 
 
 
-![Screenshot (7)](https://github.com/user-attachments/assets/08c18893-3d58-4625-9576-06ce924ec168)
-
-
-![Screenshot (8)](https://github.com/user-attachments/assets/3d5d9020-34d9-43ce-8a67-a6f40c004588)
 
 
 
 
-
-![Screenshot (9)](https://github.com/user-attachments/assets/2f6e3bd5-cf0f-4106-816b-a7bb278ce70e)
 
 
 
