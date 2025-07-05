@@ -46,6 +46,10 @@ Use pivot tables and calculated columns where necessary to answer the following:
 
 This Ms Excel sheet shows the data used and the calculated columns included to achieve a well structured data for the analysis
 
+![Screenshot (11)](https://github.com/user-attachments/assets/d7953c5f-750e-4997-a003-71fca6d408a1)
+
+
+
 
 
 
