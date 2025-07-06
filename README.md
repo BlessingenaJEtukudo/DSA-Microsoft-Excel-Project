@@ -55,7 +55,7 @@ I started by cleaning my data where necessary.I used the delimeter to split the 
 
 Below are pictoral representations of my dashboard showing the results of my analysis using charts.
 
-The first chart
+
 
 ![Screenshot (12)](https://github.com/user-attachments/assets/818ba992-9a77-457e-8942-507919bb7798)
 
@@ -75,8 +75,15 @@ The first chart
 
 
 
+##RECOMMENDATION 
 
 
+- The computer and Accessories category should be given a lot of promotions using campaigns,advertisements, digital marketing, etc
+
+This is because this category has the highest discounts and ratings which means the quality is still top notch even with the high discount and the discount helps in driving sales.
+
+
+- 
 
 
 
