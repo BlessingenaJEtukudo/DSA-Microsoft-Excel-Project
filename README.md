@@ -102,5 +102,12 @@ This is because this category has the highest discounts and ratings which means 
 
 ##VISUALS: Screenshot preview of the Ms Excel Dashboard and worksheet 
 
+##AUTHOR
+
+Blessing Etukudo 
+
+Junior Data Analyst at RetailTech Insights 
+
+
 
 
