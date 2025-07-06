@@ -51,7 +51,11 @@ This Ms Excel sheet shows the data used and the calculated columns included to a
 I started by cleaning my data where necessary.I used the delimeter to split the category column into 5 columns.I went ahead to calculate and add the necessary columns for my analysis  
 
 
-###RESULTS 
+###RESULTS
+
+Below are pictoral representations of my dashboard showing the results of my analysis using charts.
+
+The first chart
 
 ![Screenshot (12)](https://github.com/user-attachments/assets/818ba992-9a77-457e-8942-507919bb7798)
 
