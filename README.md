@@ -92,7 +92,12 @@ This is because this category has the highest discounts and ratings which means 
 
   This is because as discounts increases beyond a certain point, the average rating across discount buckets shows a drop in ratings
 
-  - 
+
+- Check why some categories  outperform others and invest in sourcing similar high demand products in those categories.
+
+- Use incentives and followup emails to encourage reviews because there gaps between categories as shown in the Number of Reviews per category chart
+
+- 
 
 
 
