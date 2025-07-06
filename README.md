@@ -48,10 +48,10 @@ This Ms Excel sheet shows the data used and the calculated columns included to a
 
 ![Screenshot (11)](https://github.com/user-attachments/assets/d7953c5f-750e-4997-a003-71fca6d408a1)
 
-I started by cleaning my data where necessary.I used the delimeter to split the category column into 5 columns.
+I started by cleaning my data where necessary.I used the delimeter to split the category column into 5 columns.I went ahead to calculate and add the necessary columns for my analysis  
 
 
-
+###RESULTS 
 
 ![Screenshot (12)](https://github.com/user-attachments/assets/818ba992-9a77-457e-8942-507919bb7798)
 
