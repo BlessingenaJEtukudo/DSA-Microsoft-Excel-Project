@@ -83,7 +83,9 @@ Below are pictoral representations of my dashboard showing the results of my ana
 This is because this category has the highest discounts and ratings which means the quality is still top notch even with the high discount and the discount helps in driving sales.
 
 
-- The quality control unit should double check on the poorly rated products from categories like Car and Motorbike and Kitchen and personal care
+- The quality control unit should double check on the poorly rated products from categories like Car and Motorbike, Home and Kitchen.
+
+  This is because even with the discounts their ratings are still low and I'd also ad
 
 
 
