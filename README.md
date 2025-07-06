@@ -83,7 +83,7 @@ Below are pictoral representations of my dashboard showing the results of my ana
 This is because this category has the highest discounts and ratings which means the quality is still top notch even with the high discount and the discount helps in driving sales.
 
 
-- 
+- The quality control unit should double check on the poorly rated products from categories like
 
 
 
