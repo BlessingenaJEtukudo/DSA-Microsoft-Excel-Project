@@ -100,5 +100,7 @@ This is because this category has the highest discounts and ratings which means 
 - Even out promotional efforts and consider targeted discounts to underperformed categories to boost visibility  because of the imbalance shown in the Number of products with 50% discount and categories with highest discounts  
 
 
+##VISUALS: Screenshot preview of the Ms Excel Dashboard and worksheet 
+
 
 
