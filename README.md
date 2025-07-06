@@ -85,8 +85,14 @@ This is because this category has the highest discounts and ratings which means 
 
 - The quality control unit should double check on the poorly rated products from categories like Car and Motorbike, Home and Kitchen.
 
-  This is because even with the discounts their ratings are still low and I'd also ad
+  This is because even with the discounts their ratings are still low.
 
+  
+- Avoid hurting brand Value by removing excessive discounting and test optimal discount range that still retains good average ratings
+
+  This is because as discounts increases beyond a certain point, the average rating across discount buckets shows a drop in ratings
+
+  - 
 
 
 
