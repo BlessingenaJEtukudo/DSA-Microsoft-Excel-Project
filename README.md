@@ -97,7 +97,7 @@ This is because this category has the highest discounts and ratings which means 
 
 - Use incentives and followup emails to encourage reviews because there gaps between categories as shown in the Number of Reviews per category chart
 
-- 
+- Even out promotional efforts and consider targeted discounts to underperformed categories to boost visibility  because of the imbalance shown in the Number of products with 50% discount and categories with highest discounts  
 
 
 
