@@ -1,26 +1,26 @@
 # DSA-Microsoft-Excel-Project
 My Amazon Product Review Analysis 
 
-##PROJECT TOPIC : Amazon Product Review Analysis 
+## PROJECT TOPIC : Amazon Product Review Analysis 
 
 
-##PROJECT OVERVIEW
+## PROJECT OVERVIEW
 
 The purpose of this Data Analysis Project is to generate insights that can guide product improvement, marketing strategies and customer engagement of RetailTech Insights, a company that provides e-commerce analytics solutions to sellers on platforms like Amazon. I have achieved this by analysing product and customer review data  
 
 
-##DATA SOURCE
+## DATA SOURCE
 
 The Primary source of Data I used for the analysis is Amazon Case Study file and this was shared on my LMS by DSA Incubator hub
 
 
-##TOOLS USED
+## TOOLS USED
 
 - Ms Excel For Data Cleaning
 - Ms Excel Pivot Table For Analysis
 - Ms Excel Dashboard for visualisation
 
-##EXPLORATORY DATA ANALYSIS
+## EXPLORATORY DATA ANALYSIS
 
 Use pivot tables and calculated columns where necessary to answer the following:
 1. What is the average discount percentage by product category?
@@ -42,7 +42,7 @@ Use pivot tables and calculated columns where necessary to answer the following:
 
 
 
-##VISUAL INSIGHTS AND RESULTS
+## VISUAL INSIGHTS AND RESULTS
 
 This Ms Excel sheet shows the data used and the calculated columns included to achieve a well structured data for the analysis
 
@@ -51,7 +51,7 @@ This Ms Excel sheet shows the data used and the calculated columns included to a
 I started by cleaning my data where necessary.I used the delimeter to split the category column into 5 columns.I went ahead to calculate and add the necessary columns for my analysis  
 
 
-###RESULTS
+### RESULTS
 
 Below are pictoral representations of my dashboard showing the results of my analysis using charts.
 
@@ -75,7 +75,7 @@ Below are pictoral representations of my dashboard showing the results of my ana
 
 
 
-##RECOMMENDATION 
+## RECOMMENDATION 
 
 
 - The computer and Accessories category should be given a lot of promotions using campaigns,advertisements, digital marketing, etc
@@ -100,9 +100,9 @@ This is because this category has the highest discounts and ratings which means 
 - Even out promotional efforts and consider targeted discounts to underperformed categories to boost visibility  because of the imbalance shown in the Number of products with 50% discount and categories with highest discounts  
 
 
-##VISUALS: Screenshot preview of the Ms Excel Dashboard and worksheet 
+## VISUALS: Screenshot preview of the Ms Excel Dashboard and worksheet 
 
-##AUTHOR
+## AUTHOR
 
 Blessing Etukudo 
 
